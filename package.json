@@ -1,0 +1,15 @@
+{
+  "name": "pastelito-lemp",
+  "version": "1.0.0",
+  "description": "setup host for LEMP",
+  "main": "setup.js",
+  "scripts": {
+    "start": "node setup.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "shelljs": "^0.6.0"
+  }
+}
